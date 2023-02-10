@@ -1,4 +1,4 @@
-package nl.ordina;
+package nl.ordina.wordcounter.app;
 
 public class HelloWorld {
     public static void main(String[] args) {
